@@ -447,4 +447,4 @@ Player triggers Save
 
 *This document describes the architectural design of Green Valley. The source code is proprietary and not publicly available.*
 
-**© 2024-2026 DevStudio AI. All rights reserved.**
+**© 2024-2026 DevStudio AI Inc.. All rights reserved.**

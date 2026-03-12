@@ -300,6 +300,6 @@ Green Valley is **playable** with major systems functional:
 
 This repository contains documentation and architecture references only. The source code is proprietary and not publicly available.
 
-**© 2024-2026 DevStudio AI. All rights reserved.**
+**© 2024-2026 DevStudio AI Inc.. All rights reserved.**
 
 See [LICENSE](LICENSE) for details.
