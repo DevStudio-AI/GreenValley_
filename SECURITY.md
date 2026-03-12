@@ -119,4 +119,4 @@ Permissions-Policy: camera=(), microphone=(), geolocation=()
 
 ---
 
-*© 2024-2026 DevynAi. All rights reserved.*
+*© 2024-2026 DevStudio AI. All rights reserved.*

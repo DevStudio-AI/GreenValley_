@@ -140,4 +140,4 @@ This is as notable as what IS in the stack:
 
 ---
 
-*© 2024-2026 DevynAi. All rights reserved.*
+*© 2024-2026 DevStudio AI. All rights reserved.*
